@@ -1,0 +1,4 @@
+top
+df -h
+ls
+ls -lrth
